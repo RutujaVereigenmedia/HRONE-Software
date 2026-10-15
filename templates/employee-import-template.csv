@@ -1,0 +1,2 @@
+employee_code,first_name,last_name,email,phone,department,designation,joining_date,manager_email,role
+EMP0100,Asha,Patil,asha@example.com,9876543210,Engineering,Developer,2026-01-15,admin@demo.local,EMPLOYEE

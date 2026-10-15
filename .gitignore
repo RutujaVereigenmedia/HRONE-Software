@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.DS_Store
+client/dist/
+
+@"
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+coverage/
+.DS_Store
+*.log
+"@ | Out-File -FilePath .gitignore -Encoding utf8
